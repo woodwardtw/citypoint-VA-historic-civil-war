@@ -1,0 +1,634 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>city point with markers.kmz</name>
+	<StyleMap id="m_ylw-pushpin0">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="s_ylw-pushpin_hl">
+		<IconStyle>
+			<scale>1.4</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/track.png</href>
+			</Icon>
+			<hotSpot x="32" y="32" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="s_ylw-pushpin">
+		<IconStyle>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/track.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Folder>
+		<name>city point with markers</name>
+		<open>1</open>
+		<description>stuff</description>
+		<GroundOverlay>
+			<name>City Point Civil War Overlay</name>
+			<color>b5ffffff</color>
+			<Icon>
+				<href>https://c2.staticflickr.com/4/3843/33843340766_d0effc4ae3_k.jpg</href>
+				<viewBoundScale>0.75</viewBoundScale>
+			</Icon>
+			<LatLonBox>
+				<north>37.31710678952383</north>
+				<south>37.30276846902903</south>
+				<east>-77.26281901368532</east>
+				<west>-77.28566599298814</west>
+				<rotation>84.18732027550055</rotation>
+			</LatLonBox>
+		</GroundOverlay>
+		<Placemark>
+			<name>Appomattox Manor</name>
+			<description><![CDATA[View of the Eppes Plantation House from the north side. Notice damage to the roof. This was done during the 1862 shelling of the house by Union forces during the Peninsula Campaign. Oldest sectioin of the home was constructed in 1763. Home and property beonged to the Eppes family from 1635 till given to the National Park Service in 1979. (Image: National Archives - 526101 Top right section)
+
+<img width="500px" height="autho" src="https://rampages.us/city_point_photos/National%20Archives%20Images/Appomattox%20Manor.jpg">]]></description>
+			<LookAt>
+				<longitude>-77.2770789284216</longitude>
+				<latitude>37.31718829332974</latitude>
+				<altitude>0</altitude>
+				<heading>-175.4295038893707</heading>
+				<tilt>29.05174059655349</tilt>
+				<range>297.4641972783689</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin0</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-77.27736496383088,37.31716324084643,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Grants Cabin</name>
+			<description><![CDATA[General Grant and staff in front of the General Grant Cabin on the Eppes Plantation.  From here General Grant directed and oversaw the operations of the Unioin Army during the last several months of the war.During the winter of 1864 -1865, Mrs. Julia Grant and their son Jesse would stay in this cabin with General Grant. The cabin has two rooms, a sitting room with a table and chairs, and a sleeping room with a bed.(Image: Petersburt National Battlefield)
+
+<img width="500px" height="autho" src="https://rampages.us/city_point_photos/02grants%20hq.jpg">]]></description>
+			<LookAt>
+				<longitude>-77.27554667486584</longitude>
+				<latitude>37.31721553844366</latitude>
+				<altitude>0</altitude>
+				<heading>172.4074855819587</heading>
+				<tilt>29.99851975764547</tilt>
+				<range>255.8190347521777</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin0</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-77.27581193358473,37.31699555721824,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Ingalls</name>
+			<description><![CDATA[General Rufus Ingalls (center) at the Eppes Plantation House, City Point, VA., with members of staff. General Ingalls was originally the Quartermaster for the Army of the Potomac. In 1864 General Grant assigned him to be in charge of all logistics for the Army of the Potomac and Army of the James operating in the Richmond-Petersburg areas. His actions, along with his staff, were instrumental in being able to create the supply depot at City Point that provided supplies to Union forces both north and south of the Appomattox River.  General Ingalls and his staff operated out of the Eppes Plantation House.(Image: National Archives Identifier Number: 525141)
+
+<img width="500px" height="autho" src="https://rampages.us/city_point_photos/National%20Archives%20Images/525141.gif">]]></description>
+			<LookAt>
+				<longitude>-77.27699987754102</longitude>
+				<latitude>37.31704247236397</latitude>
+				<altitude>0</altitude>
+				<heading>-37.96493145505061</heading>
+				<tilt>29.99425403163101</tilt>
+				<range>242.0223980045605</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin0</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-77.27702995519685,37.31665406474233,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Bakery</name>
+			<description><![CDATA[One of several buildings that made
+up the Bakery and Commissary 
+Depot. The Bakery was able to produce 
+over 100,000 loaves of bread per day. 
+Bread was then loaded directly onto 
+rail cars for delivery to front lines.
+Some troops report receiving warm 
+bread while in the trenches around 
+Petersburg.(Image: National Archives - 528962)
+<img width="500px" height="autho" src="https://rampages.us/city_point_photos/National%20Archives%20Images/528962.gif">]]></description>
+			<LookAt>
+				<longitude>-77.27405628407641</longitude>
+				<latitude>37.30744440776797</latitude>
+				<altitude>0</altitude>
+				<heading>4.798021848985881</heading>
+				<tilt>27.87835254647234</tilt>
+				<range>1438.440424733005</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin0</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-77.27759100434972,37.30532339504825,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Hospital Wharf</name>
+			<description><![CDATA[City Point Depot Hospital dock, located about half a mile to the west of this point, on the Appomattox River. Patients that were in stable condition were placed on vessels and sent to other hospitals along the east coast (Baltimore; Washington, D.C.; New York) for continued treatment. This would free up beds to receive new wounded during the continual operations along the Petersburg front. (Library of Congress CALL Number: LC-B811-2621)
+
+<img width="500px" height="autho" src="https://rampages.us/city_point_photos/LoC%20Civil%20War%20Photos%20of%20City%20Point/%5BCity%20Point,%20Va.,%20vicinity.%20Medical%20supply%20boat%20Planter%20at%20General%20Hospital%20wharf%20on%20the%20Appomattox%5D.jpg">]]></description>
+			<LookAt>
+				<longitude>-77.2799961455036</longitude>
+				<latitude>37.30943762423337</latitude>
+				<altitude>0</altitude>
+				<heading>-89.39817808725958</heading>
+				<tilt>29.75811248943431</tilt>
+				<range>676.3796605819388</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin0</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-77.2801850580566,37.30995549895546,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Depot Hospital</name>
+			<description><![CDATA[Drawing of Depot Field Hospital at City Point, located about half a mile to the west of this location, looking east toward City Point. During his second and final visit to City Point in March/April 1865
+President Lincoln went through the entire hospital
+shaking the hands of all of the staff and wounded, 
+from both sides. This hospital was located in the
+general area of todays John Randolph Medical Center.(Image: Petesrburg National Battlefield)
+
+<img width="500px" height="autho" src="https://rampages.us/city_point_photos/Depot%20Field%20Hospital%20Image.jpg">]]></description>
+			<LookAt>
+				<longitude>-77.27999601678756</longitude>
+				<latitude>37.30943896540261</latitude>
+				<altitude>0</altitude>
+				<heading>-99.29505813606531</heading>
+				<tilt>29.75761314223731</tilt>
+				<range>676.3797299716897</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin0</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-77.28030968667154,37.30909814116802,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Bull Pen</name>
+			<description><![CDATA[Distribution Barracks in foreground and Bullpen (white buildings) in background. The Distribution Barracks was for Union soldiers leaving the area or returning to their unit on the front lines. The Bullpen was a prison for Union and Confederate soldiers.
+Statements from individuals that were housed in the Bullpen say that is was worse then some of the other renown prisons of that time. (Image: Petersburg National Battlefield)
+
+<img width="500px" height="autho" src="https://rampages.us/city_point_photos/Bull%20pen%20at%20City%20Point.jpg">]]></description>
+			<LookAt>
+				<longitude>-77.26943480450787</longitude>
+				<latitude>37.30963553674478</latitude>
+				<altitude>0</altitude>
+				<heading>-70.58534226433341</heading>
+				<tilt>27.8826011986805</tilt>
+				<range>1599.874486773389</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin0</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-77.27314743032933,37.30944508753762,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Ordnance Wharf</name>
+			<description><![CDATA[The Ordnance Wharf in the right and Coal Wharf is on left. These wharves were built after the explosion by a Confederate bomb, placed in an ammunition vessel on 9 August 1864, to allow ammunition to be loaded directly onto rail cars. Notice the steam driven pile driver on the left side of photograph working to create more wharf space for unloaded coal.(Image: Petersburg National Battlefield)
+
+<img width="500px" height="autho" src="https://rampages.us/city_point_photos/coalwharfpiledriverordinancewharfcpcreditLC.jpg">]]></description>
+			<LookAt>
+				<longitude>-77.26938528457345</longitude>
+				<latitude>37.30963156710482</latitude>
+				<altitude>0</altitude>
+				<heading>80.93985694129871</heading>
+				<tilt>27.8826012501979</tilt>
+				<range>1893.979353995462</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin0</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-77.2702261564159,37.30806179805373,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Army HQs</name>
+			<description><![CDATA[General Grant’s staff in front of a Union Army Headquarters building at City Point. This is one of several cabins built as sleeping or workspace for Grant’s staff. From these buildings the staff lived and work while plannig and overseeing not only the Petersburg Campaign, but those in the other theaters of operation. The Eppes house is in the background.(Image: Library of Congress - LC-B811-3401 [P&P])
+
+<img width="500px" height="autho" src="https://rampages.us/city_point_photos/Army%20HQs%20LOC%20LC-B811-3401%20%5BP_P%5D.jpg">]]></description>
+			<LookAt>
+				<longitude>-77.27573233400271</longitude>
+				<latitude>37.31761237679709</latitude>
+				<altitude>0</altitude>
+				<heading>-95.03806308406882</heading>
+				<tilt>29.97932155919262</tilt>
+				<range>477.9619443041067</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin0</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-77.27631418906718,37.31689738734054,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Ordnance Guard</name>
+			<description><![CDATA[United States Color Troops (U.S.C.T.) soldier guarding 12 pound Napoleons on Ordnance Wharf. (Image: Library of Congress: LC-B811-2583)
+
+<img width="500px" height="autho" src="https://rampages.us/city_point_photos/LoC%20Civil%20War%20Photos%20of%20City%20Point/City%20Point,%20Virginia.%20Negro%20soldier%20guarding%2012-pdr.%20Napoleon.%20%5BModel%201857%5D.jpg">]]></description>
+			<LookAt>
+				<longitude>-77.26877737861895</longitude>
+				<latitude>37.3091949257935</latitude>
+				<altitude>0</altitude>
+				<heading>-61.26650570474562</heading>
+				<tilt>29.97827444988392</tilt>
+				<range>477.965481716983</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin0</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-77.26879233936312,37.30836273916368,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Rail Lines</name>
+			<description><![CDATA[View looking along rail line toward the wharfs. In the foreground are several military rail cars, tracks and buildings. Building on the left behind the train is the three track engine house. You can see some vessels docked along the wharf unloading supplies. Center of photo toward the back you can see the Dispatchers Building and then the start of a storehouse. (Image: Library of Congress - LB-B811-2514)
+
+<img width="500px" height="autho" src="https://rampages.us/city_point_photos/LoC%20Civil%20War%20Photos%20of%20City%20Point/City%20Point,%20Virginia.%20Railroad%20yard%20and%20transports.jpg">]]></description>
+			<LookAt>
+				<longitude>-77.2710590967325</longitude>
+				<latitude>37.30780304954126</latitude>
+				<altitude>0</altitude>
+				<heading>19.98311326194239</heading>
+				<tilt>29.97522002737408</tilt>
+				<range>361.0668177411091</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin0</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-77.27112121828542,37.30754783480279,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Sanitary Commission Vessel</name>
+			<description><![CDATA[Railroad tracks, docks with Sanitary Commission vessel in the background. The elevated railroad tracks are coming from the wharves to the left and proceeding to behind Union lines eight miles away. Building on left is the Office of the Quartermaster Department. Sanitary Commission, a private relief agency created in 1861,whose mission was to support sick and wounded soldiers of the U.S. Army during the American Civil War.Photograph taken before the building of the Quartermaster Storehouses along the wharf in this area.  (Image: Library of Congress - LC-DIG-cwpb-01862)
+
+<img width="500px" height="autho" src="https://rampages.us/city_point_photos/LoC%20Civil%20War%20Photos%20of%20City%20Point/%5BSanitary%20commission%20barge%20at%20the%20docks,%20City%20Point,%20Virginia%5D.jpg">]]></description>
+			<LookAt>
+				<longitude>-77.27118843934056</longitude>
+				<latitude>37.31199368603014</latitude>
+				<altitude>0</altitude>
+				<heading>65.55249305411434</heading>
+				<tilt>25.92676079145574</tilt>
+				<range>328.6766082096809</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin0</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-77.27118843934056,37.31199368603014,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Steam Engine</name>
+			<description><![CDATA[City Point docks several weeks after the explosion on the docks by a Confederate bomb place in an ammunition ship. Photo is on the southern end of the wharf looking north. The Quartermaster Department Office is the first building on the left. Behind it is a Quartermaster Supply House. The wheeled item in front is a steam engine used to pump water from the river to the water towers. (Image: National Archives - 525096)
+
+<img width="500px" height="autho" src="https://rampages.us/city_point_photos/National%20Archives%20Images/525096.gif">]]></description>
+			<LookAt>
+				<longitude>-77.27002430856719</longitude>
+				<latitude>37.31041831811849</latitude>
+				<altitude>0</altitude>
+				<heading>-26.48507486311423</heading>
+				<tilt>30.00164430163158</tilt>
+				<range>600.3484762217327</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin0</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-77.26865113813322,37.31018916587445,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Secret Service HQs</name>
+			<description><![CDATA[This City Point building served as the office for the Secret Service. The Secret Service also served as scouts for General Grant. (Image: Peteresburg National Battlefield)
+
+<img width="500px" height="autho" src="https://rampages.us/city_point_photos/LoC%20Civil%20War%20Photos%20of%20City%20Point/City%20Point,%20Virginia%20(vicinity).%20Headquarters%20of%20Secret%20Service.jpg">]]></description>
+			<LookAt>
+				<longitude>-77.27004558473551</longitude>
+				<latitude>37.31044636553381</latitude>
+				<altitude>0</altitude>
+				<heading>-34.13098369711337</heading>
+				<tilt>30.00059242902313</tilt>
+				<range>600.3705927350411</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin0</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-77.2725403365111,37.31012567505885,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Railroad Barracks</name>
+			<description><![CDATA[A row of newly constructed Military Railroad Construction Barracks. Because of the large workforce dedicated to maintaining the military railroad, barracks were built specifically to house them and keep them away from other workers. Most of those who worked for the railroad were civilians. (Image: Library of Congress - LC-B811-1598)
+
+<img width="500px" height="autho" src="https://rampages.us/city_point_photos/LoC%20Civil%20War%20Photos%20of%20City%20Point/City%20Point,%20Virginia.%20Barracks%20of%20Military%20Railroad%20Construction%20Corps.jpg">]]></description>
+			<LookAt>
+				<longitude>-77.27266145028014</longitude>
+				<latitude>37.30971646053502</latitude>
+				<altitude>0</altitude>
+				<heading>85.7968444927681</heading>
+				<tilt>19.69367369925199</tilt>
+				<range>312.1888488773599</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin0</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-77.27264958194949,37.30970778428717,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Grant&apos;s Tent</name>
+			<description><![CDATA[General Grant’s Headquarters at during summer 1864 was in the yard of the Eppes Plantation House in City Point. It was not until November 1864 that the cabins were build. Grant believed that while living in the tents that there still was a chance for capturing Petersburg before winter set in. Once cabins were built, he felt that the campaign would settle into a siege of Petersburg and the Confederate Army. General Grant is seated second from the left. (Image: Library of Congress - LC-USZ62-64249)
+
+<img width="500px" height="autho" src="https://rampages.us/city_point_photos/LoC%20Civil%20War%20Photos%20of%20City%20Point/Ulysses%20S.%20Grant.jpg">]]></description>
+			<LookAt>
+				<longitude>-77.27520928129047</longitude>
+				<latitude>37.31660820983753</latitude>
+				<altitude>0</altitude>
+				<heading>-159.4860237461327</heading>
+				<tilt>29.99741687633244</tilt>
+				<range>244.3317913860913</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin0</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-77.27520928129047,37.31660820983753,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Rail Turntable</name>
+			<description><![CDATA[Built around October of 1864 was the Military Railroad turntable at City Point, front center of photograph. Behind the turntable is the three track engine house used for repair work on the engines and rail cars. On the bluff to the right are some of the buildings used by railroad personnel. (Image: National Archives - 527606)
+<img width="500px" height="autho" src="https://rampages.us/city_point_photos/National%20Archives%20Images/527606.gif">]]></description>
+			<LookAt>
+				<longitude>-77.27221653840704</longitude>
+				<latitude>37.31018759627785</latitude>
+				<altitude>0</altitude>
+				<heading>132.0701600260128</heading>
+				<tilt>25.02861129335978</tilt>
+				<range>660.1294368472545</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin0</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-77.27133479962161,37.30967961053088,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Dock Workers</name>
+			<description><![CDATA[Dock workers on the northern end of the City Point wharf unloading supplies. This photograph was taken early during the Petersburg Campaign as noted by the lack of buildings located on the actual wharf. Location of camera is probably on a ship in what would later be Wharf #1, Quartermaster Storehouse. (Image: Library of Congress - LC-B811-2458)
+
+<img width="500px" height="autho" src="https://rampages.us/city_point_photos/LoC%20Civil%20War%20Photos%20of%20City%20Point/City%20Point,%20Virginia.%20Army%20stores%20on%20wharf.jpg">]]></description>
+			<LookAt>
+				<longitude>-77.27459399429576</longitude>
+				<latitude>37.31568832201586</latitude>
+				<altitude>0</altitude>
+				<heading>159.5075375317349</heading>
+				<tilt>25.02875863969798</tilt>
+				<range>659.945051550761</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin0</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-77.27330050592694,37.31696611413801,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Rail Water Tanks</name>
+			<description><![CDATA[One of the many train engines used on the military railroad to move supplies from City Point to the troops surrounding Petersburg. Photo shows an engine, two water tanks and in the background you can see the Ordnance Wharf. On top of the bluff on the right is an area used by the railroad operators. (Image: Library of Congress - LC-B811-2513)
+
+<img width="500px" height="autho" src="https://rampages.us/city_point_photos/LoC%20Civil%20War%20Photos%20of%20City%20Point/%5BCity%20Point,%20Va.%20Another%20locomotive%20at%20the%20same%20point%5D.jpg">]]></description>
+			<LookAt>
+				<longitude>-77.26993161906</longitude>
+				<latitude>37.30943834971541</latitude>
+				<altitude>0</altitude>
+				<heading>110.5560443740288</heading>
+				<tilt>25.0289656470366</tilt>
+				<range>675.4721658983786</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin0</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-77.27158379296399,37.30902626138776,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Provost Marshal HQs</name>
+			<description><![CDATA[Provost Marshal General Marsena R. Patrick’s HQ building is located on the bluff. The mail wharf is behind the building which is the military railroad Dispatchers Office. The supply train wagons in center front of the picture are from the Sixteenth Corps. (Image: Library of Congress - LC-DIG-cwpb-01972)
+
+<img width="500px" height="autho" src="https://rampages.us/city_point_photos/LoC%20Civil%20War%20Photos%20of%20City%20Point/City%20Point,%20Virginia.%20Gen.%20%5BMarsena%20R.%5D%20Patrick's%20headquarters%20and%20mail%20wharf.jpg">]]></description>
+			<LookAt>
+				<longitude>-77.27122246289358</longitude>
+				<latitude>37.30992435773942</latitude>
+				<altitude>0</altitude>
+				<heading>-2.296646729937991e-10</heading>
+				<tilt>25.02913956002832</tilt>
+				<range>662.8359763880426</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin0</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-77.27089856218673,37.31041365648611,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Ships for Offloading</name>
+			<description><![CDATA[Photograph showing some of the vessels waiting to be off- loaded at the City Point wharf. On average between 150 and 200 vessels could be seen in the river waiting to be brought to the wharf for offloading, making it one of the busiest ports in the country between June 1864 and May 1865.  (Image: Library of Congress - LC-DIG-ppmsca-33283)
+
+<img width="500px" height="autho" src="https://rampages.us/city_point_photos/LoC%20Civil%20War%20Photos%20of%20City%20Point/%5BView%20of%20James%20River,%20in%20front%20of%20City%20Point,%20Virginia,%20July%205,%201864%5D.jpg">]]></description>
+			<LookAt>
+				<longitude>-77.274125027929</longitude>
+				<latitude>37.31507558923812</latitude>
+				<altitude>0</altitude>
+				<heading>-15.74485326887727</heading>
+				<tilt>25.02920816534725</tilt>
+				<range>661.4261202091151</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin0</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-77.27349860195338,37.31600176263585,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Explosion along wharf</name>
+			<description><![CDATA[View looking north at a portion of the City Point wharf that was destroyed during the 9 August 1864 explosion set off by a homemade time-bomb, known at the time as a ""horological torpedo,"" created by Confederate spies and placed on an ammunition ship. As many as fifty-eight people were killed (mainly dock workers). When the bomb exploded it caused a chain reaction that included two barges and the storage building on the wharf, exploding 30,000 artillery shells and 75,000 small arms rounds. The wharf was quickly repaired and back into action within a few days. (Image: Library of Congress - 2012649545)
+
+<img width="500px" height="autho" src="https://rampages.us/city_point_photos/City%20Point%20explosion%20LOC%202012649545.jpg">]]></description>
+			<LookAt>
+				<longitude>-77.27071704876609</longitude>
+				<latitude>37.31383916558112</latitude>
+				<altitude>0</altitude>
+				<heading>-35.34101728941179</heading>
+				<tilt>25.06723490330221</tilt>
+				<range>409.106882205706</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin0</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-77.27070410772097,37.31383901427629,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>View of Explosion Area</name>
+			<description><![CDATA[View from above the City Point Wharf showing damage to the wharf, buildings, and tents as well as debris thrown from the 9 August 1864 explosion. Damage to the wharf caused a delay in offloading vessels in the area of the explosion, but the rest of the wharf continued to work while repairs were made. (Image: Library of Congress - LC-DIG-cwpb-03927)
+
+<img width="500px" height="autho" src="https://rampages.us/city_point_photos/LoC%20Civil%20War%20Photos%20of%20City%20Point/City%20Point,%20Virginia.%20Wharves%20after%20the%20explosion%20of%20ordnance%20barges%20on%20August%204,%201864%20%5Bdate%20inccorect%20on%20LoC%20page%5D.jpg">]]></description>
+			<LookAt>
+				<longitude>-77.27230254892406</longitude>
+				<latitude>37.31475734167584</latitude>
+				<altitude>0</altitude>
+				<heading>110.8911437163038</heading>
+				<tilt>25.06736343978766</tilt>
+				<range>406.4940092033968</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin0</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-77.27274399918825,37.31474810932349,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Sutlers</name>
+			<description><![CDATA[Looking west from the wharf. On top
+of the hill are some Sutler buildings, one
+reads ""Eating House“ (on right)
+and a Post Office buildings (on left).
+At bottom of hill are other Sutler buildings 
+with signs reading: ""Sayers Oyster 
+House,"" ""Pipes, Cigars, Oysters, & 
+Soda Water,“ and ""Boots & Shoes for Sale
+and Repaired."" (Image: Library of Congress - LC-DIG-ds-05622)
+
+<img width="500px" height="autho" src="https://rampages.us/city_point_photos/sutlersheadquarterscreditLC.jpg">]]></description>
+			<LookAt>
+				<longitude>-77.27303730488057</longitude>
+				<latitude>37.31578397883641</latitude>
+				<altitude>0</altitude>
+				<heading>-147.1727904671303</heading>
+				<tilt>25.06757317024456</tilt>
+				<range>407.0382964101163</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin0</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-77.27232659500937,37.31592009947141,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>St Johns Church</name>
+			<description><![CDATA[St Johns Church, left side of photograph, taken facing west from the back side of the church. In the background on the left you can see the observation platform/signaling station that the Confederates had erected to look out on the James River, located behind photographer. (Image: Petersburg National Battlefield)
+
+<img width="500px" height="autho" src="https://rampages.us/city_point_photos/StJohnschurch_confederatesignalingstation.jpg">]]></description>
+			<LookAt>
+				<longitude>-77.27692650047</longitude>
+				<latitude>37.31062516259091</latitude>
+				<altitude>0</altitude>
+				<heading>-82.64762106274678</heading>
+				<tilt>25.06773075524639</tilt>
+				<range>393.8991253445121</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin0</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-77.27642091252832,37.31095927939051,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Engine House</name>
+			<description><![CDATA[Engine House was built to provide maintenance support to the 
+locomotives and rail cars 0perating on the Military railroad
+between City Point and Petersburg. Just to the left of the engin house is the turntable. (Image: National Archives - 528885)
+
+<img width="500px" height="autho" src="https://rampages.us/city_point_photos/National%20Archives%20Images/528885.gif">]]></description>
+			<LookAt>
+				<longitude>-77.27193691080919</longitude>
+				<latitude>37.30804338985112</latitude>
+				<altitude>0</altitude>
+				<heading>15.90728219815261</heading>
+				<tilt>25.06784440459053</tilt>
+				<range>405.5836125251913</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin0</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-77.2718692555045,37.30717579300887,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Winter Quarters</name>
+			<description><![CDATA[As fall turned to winter soldiers adjusted from their tents to making small cabins or a combination of tent roof with cabin sides. Photograph shows soldiers in front of their cabins cleaning equipment and other chores that soldiers have been doing for centuries. (Image: National Archives - 525167)
+<img width="500px" height="autho" src="https://rampages.us/city_point_photos/National%20Archives%20Images/525167.gif">]]></description>
+			<LookAt>
+				<longitude>-77.27335283052187</longitude>
+				<latitude>37.30577246428867</latitude>
+				<altitude>0</altitude>
+				<heading>-20.76071642957808</heading>
+				<tilt>25.07003508405166</tilt>
+				<range>551.9317612484937</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin0</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-77.27268648350605,37.3064267558882,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Provost Marshal Office</name>
+			<description><![CDATA[Photograph shows Union soldiers standing in front of two buildings. On the right is the Provost Marshall's office in City Point, on left in the background is the Post Office. (Image: Library of Congress - 91787361)
+
+<img width="500px" height="autho" src="https://rampages.us/city_point_photos/Provost%20Post%20offic%20LOC%2091787361.jpg">]]></description>
+			<LookAt>
+				<longitude>-77.27321831198732</longitude>
+				<latitude>37.3127619906323</latitude>
+				<altitude>0</altitude>
+				<heading>133.4595797125018</heading>
+				<tilt>25.06944094393742</tilt>
+				<range>942.2411146059468</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin0</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-77.27242832629874,37.31398300073488,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>
